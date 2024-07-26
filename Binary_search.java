@@ -7,7 +7,7 @@ public class Binary_search {
 		
 		/*
 		 *   Time Complexity = O(logN)
-		 *  
+		 *  https://www.javatpoint.com/binary-search-in-java
 		 */
 	int a[]= {3,5,6,8,12,15,16,19,21};	
 	int target=15;
