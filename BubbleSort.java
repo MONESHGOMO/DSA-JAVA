@@ -2,7 +2,9 @@ package GOMO_JAVA_CODES;
 import java.util.Arrays;
 public class BubbleSort {
 
+// ALSO KNOW AS  [ SINKING SORT ] AND [ EXCHANGE SORT ]
 
+	
 	
 /*
  * 1) comparing the adjacent element if(1st element is greater than the second element ) if condition true swap ,sequential implementation
