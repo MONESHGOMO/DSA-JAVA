@@ -24,6 +24,7 @@ public class Insertion_Sort {
        static void insertionSort(int[] a) {
     	   	
     	   for(int i=0;i<a.length-1;i++) { // range: i<a.length-1 or i<=a.length-2 
+		// i loop runs from zero to (n-2) 
     		    
     		   for(int j=i+1;j>0;j--) {
     			   if(a[j]<a[j-1]) {
