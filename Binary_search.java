@@ -5,7 +5,7 @@ public class Binary_search {
 	public static void main(String[] args) {
 
 		
-		/*
+		/*    IN COLLEGE SYLLABUS 
 		 *   Time Complexity = O(logN)
 		 *  https://www.javatpoint.com/binary-search-in-java
 		 */
